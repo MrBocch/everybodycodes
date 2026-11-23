@@ -1,0 +1,15 @@
+
+HEADS AAA
+
+START !!! MAIN *** SRD
+
+MAIN AA_ MAIN _*@ RRR
+MAIN BB_ MAIN _*@ RRR
+MAIN AB_ MAIN _*_ RRS
+MAIN BA_ MAIN _*_ RRS
+
+// it appears it dosen't go from top to bottom but 
+// the most genral to specific?
+// MAIN !!_ MAIN ___ RRS
+
+MAIN !__ STOP ___ RRS

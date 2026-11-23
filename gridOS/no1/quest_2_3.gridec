@@ -1,0 +1,60 @@
+HEADS AAAA
+
+START **** RIGHT **** SDRU
+
+// I made the mistake of not iterating
+// each possible state methodically.
+// Meaning I had to go from case by case
+// adding what I missed.
+
+// Always
+// For each possible [STATE]
+// Cover each possible [READ]
+// try to have less state as possible to have
+// easier time. 
+
+RIGHT *___ STOP _*** SSSS
+RIGHT ABA_ RIGHT _**@ RRRR
+RIGHT ABB_ RIGHT _**_ RRRS
+RIGHT AAA_ ADD1R _**@ RRRR
+RIGHT AAB_ RIGHT _**@ RRRR
+RIGHT AB__ DOWN_LEFT _*** DDDS
+RIGHT AA__ DOWN_LEFT _**@ DDDR
+RIGHT BB__ DOWN_LEFT _**@ DDDR
+RIGHT BA__ DOWN_LEFT _*** DDDS
+
+RIGHT BBA_ RIGHT _**@ RRRR
+RIGHT BAB_ RIGHT _**@ RRRR
+RIGHT BAA_ RIGHT _*** RRRS
+RIGHT BBB_ ADD1R _**@ RRRR
+
+RIGHT A_B_ RIGHT _*** RRRS
+RIGHT A_A_ RIGHT _**@ RRRR
+RIGHT B_A_ RIGHT _*** RRRS
+RIGHT B_B_ RIGHT _**@ RRRR
+
+ADD1R ***_ RIGHT ***@ SSSR
+
+DOWN_LEFT ***_ LEFT **** LSLS
+
+LEFT __*_ STOP ____ SSSS
+LEFT BAB_ LEFT **_@ LLLR
+LEFT BBB_ ADD1L **_@ LLLR
+LEFT AAB_ LEFT **__ LLLS
+LEFT BAA_ LEFT **_@ LLLR
+LEFT ABB_ LEFT **_@ LLLR
+LEFT BBA_ LEFT **__ LLLS
+LEFT ABA_ LEFT **_@ LLLR
+LEFT AAA_ ADD1L **_@ LLLR
+LEFT _AB_ DOWN_RIGHT **__ DDDS
+LEFT _AA_ DOWN_RIGHT **_@ DDDR
+LEFT _BB_ DOWN_RIGHT **_@ DDDR
+LEFT _BA_ DOWN_RIGHT **__ DDDS
+
+LEFT A_A_ LEFT **_@ LLLR
+LEFT B_A_ LEFT **__ LLLS
+LEFT B_B_ LEFT **_@ LLLR 
+LEFT A_B_ LEFT **__ LLLS
+ADD1L ***_ LEFT ***@ SSSR
+
+DOWN_RIGHT ***_ RIGHT **** RSRS
