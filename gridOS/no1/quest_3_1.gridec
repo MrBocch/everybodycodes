@@ -1,0 +1,24 @@
+HEADS AAAA
+
+// I did it again
+
+START **** SETUP2 **** SRRD
+SETUP2 **** MAIN **** SSRR
+
+MAIN ###_ MAIN **** RRRR
+MAIN ##=_ MAIN **** RRRR
+MAIN #==_ MAIN *~** RRRR
+MAIN ~==_ MAIN ~~~~ RRRR
+MAIN ===_ MAIN ~~~~ RRRR
+MAIN #=#_ MAIN #~#_ RRRR
+MAIN ~~~_ MAIN ~~~~ RRRR
+MAIN ~~=_ MAIN ~~~~ RRRR
+MAIN ~#=_ MAIN **~* RRRR
+MAIN #~=_ MAIN **~* RRRR
+MAIN #~#_ MAIN **** RRRR
+MAIN ~=#_ MAIN ~~#_ RRRR
+MAIN ~~#_ MAIN ~~#_ RRRR
+MAIN ~##_ MAIN **** RRRR
+MAIN ~#__ STOP **** SSSS
+MAIN ##__ STOP **** SSSS
+MAIN #___ STOP **** SSSS

@@ -1,0 +1,35 @@
+HEADS AAAA
+
+// Didn't learn my lesson lol
+
+START **** SETUP2 **** SRRD
+SETUP2 **** MAIN ***# SSRR
+
+MAIN ###_ MAIN **** RRRR
+MAIN ##=_ MAIN **** RRRR
+MAIN #==_ MAIN *~** RRRR
+MAIN ~==_ MAIN ~~~~ RRRR
+MAIN ===_ MAIN ~~~~ RRRR
+MAIN #=#_ MAIN #~#_ RRRR
+MAIN ~~~_ MAIN ~~~~ RRRR
+MAIN ~~=_ MAIN ~~~~ RRRR
+MAIN ~#=_ MAIN **~* RRRR
+MAIN #~=_ MAIN **~* RRRR
+MAIN #~#_ MAIN **** RRRR
+MAIN ~=#_ MAIN ~~#_ RRRR
+MAIN ~~#_ MAIN ~~#_ RRRR
+MAIN ~##_ MAIN **** RRRR
+
+MAIN ~#__ LEFT **** DDDD
+MAIN ##__ LEFT **** DDDD
+MAIN #___ LEFT **** DDDD
+
+LEFT ____ LEFT **** LLLL
+LEFT ~___ LEFT **** LLLL
+LEFT _~__ LEFT **** LLLL
+LEFT __~_ LEFT **** LLLL
+LEFT ~~__ LEFT **** LLLL
+LEFT ~~~_ LEFT ***~ LLLL
+LEFT #*** STOP _*** SSSS
+LEFT _~~_ LEFT **** LLLL
+
