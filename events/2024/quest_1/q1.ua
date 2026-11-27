@@ -1,5 +1,3 @@
-INPUT ← °□⊢↘₁&args
+Potions ← +⊃(/+=@B|×₃/+=@C)
 
-Potions ← +⊃(⧻▽⊸=@B|×₃⧻▽⊸=@C)
-
-$"Total potions needed: _" Potions INPUT
+$"Total potions needed: _" Potions °□⊢↘₁&args
